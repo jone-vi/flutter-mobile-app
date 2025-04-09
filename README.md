@@ -2,13 +2,13 @@
 
 ## Design
 ### List of Rooms
-<img src="images/Rooms.jpg" alt="Rooms Page" width="90%"/>
+<img src="images/Rooms.jpg" alt="Rooms Page" width="500px"/>
 
 ### List of Items in Room
-<img src="images/Items.jpg" alt="Items Page" width="90%"/>
+<img src="images/Items.jpg" alt="Items Page" width="500px"/>
 
 ### Add Item
-<img src="images/Add Item.jpg" alt="Add Item Page" width="90%"/>
+<img src="images/Add Item.jpg" alt="Add Item Page" width="500px"/>
 
 --------------------------------------------------------------------------------------------
 
